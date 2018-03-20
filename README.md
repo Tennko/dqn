@@ -1,2 +1,2 @@
 # dqn
-Cartpole(OpenAI Gym) + MLP(Tensorflow) + Q-Learning.
+Cartpole (OpenAI Gym) + MLP (Tensorflow) + Q-Learning.
